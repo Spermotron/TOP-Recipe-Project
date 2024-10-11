@@ -1,0 +1,61 @@
+body {
+    background-color: #ffdec2;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    margin: 0;
+}
+header {
+    background-color: brown;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    color: white;
+    padding: 5px 0;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+
+}
+
+.container {
+    width: 98%;
+}
+
+section {
+    float: left;
+    width: 65%;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+aside{ 
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    float: right;
+    width: 27%;
+}
+
+footer {
+    background-color: brown;
+    clear: both;
+    padding: 5px;
+    text-align: center;
+}
+
+h1 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 48px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+} 
+h2 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 32px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; 
+} 
+h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; 
+} 
+
+p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; 
+} 
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover, a:focus {
+    color: grey;
+}
